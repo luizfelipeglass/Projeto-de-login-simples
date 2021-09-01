@@ -1,0 +1,242 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+body{
+    background: linear-gradient(180deg, #0F0C29 -11.94%, #302B63 51.32%, #24243E 113.28%);
+                                       
+
+}
+
+p {
+    font-size:20px;                      
+    color:white;
+    margin-top:25px;
+    text-align:center;
+}
+
+h1{
+    font-size:34px;
+    font-weight:bold;
+    text-align:center;
+    color:white;
+    margin-top:165px;
+}
+
+input{
+  width:342px;
+  height:74px; 
+  margin-bottom:16px; 
+  font-weight:500;
+  font-size:17px;
+  padding-left: 16px;
+  display:block;/*Nesta configuração o item fica embaixo do outro como um bloco e não do lado*/
+  margin-left:auto;/*Nesta configuração a margem centraliza*/
+  margin-right:auto;/*Nesta configuração a margem centraliza*/
+  outline:none;
+}
+
+button{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background:black;
+    width:342px;
+    height:74px;
+    border:none;
+    font-size:16px;
+    color:white;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+button:active{
+    opacity:0.6;
+}
+a{
+    margin-top:140px;
+    display:block;
+    text-align: center;
+    font-size:14px;
+    color:white;
+    cursor:pointer;
+
+}
+#tempo{
+    height: 18px;
+width: 54px;
+left: 10px;
+top: -15px;
+border-radius:0px;
+position:absolute;
+}
+
+#celular{
+
+    border-radius: 0px;
+    position: absolute;
+width: 18.77px;
+height: 10.67px;
+right: 70.66px;
+top: 17.67px;
+}
+
+#wifi{
+    position: absolute;
+width: 16.93px;
+height: 11px;
+right: 48.21px;
+top: 17.33px;
+}
+
+#battery{
+    position: absolute;
+    width: 16.93px;
+    height: 11px;
+    right:25px;
+    top: 17.33px;
+}
+/*COnfigurações da hora 
+
+position: absolute;
+height: 18px;
+left: 0px;
+right: 0px;
+top: calc(50% - 18px/2 + 5.5px);
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+/*text-align: center;
+letter-spacing: -0.3px;
+
+
+
+
+height: 10.666667938232422px;
+width: 18.76800537109375px;
+left: 324.57598876953125px;
+top: 17.666656494140625px;
+border-radius: 0px;
+
+
+
+position: absolute;
+width: 18.77px;
+height: 10.67px;
+right: 70.66px;
+top: 17.67px;
+
+background: #FFFFFF;
+
+
+
+
+
+
+
+color: #FFFFFF;*/
+
+
+
+
+
+
+
+
+/*
+height: 37px;
+width: 199px;
+left: 107px;
+top: 69px;
+border-radius: nullpx;
+   config do */
+
+
+
+
+
+
+
+
+/*font-size:20px;                      
+color:white;
+margin-top:25px;
+text-align:center;
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background:black;
+    width:342px;
+    height:74px;
+    border:none;*/
+
+
+
+    /*button:active{
+    opacity:0.6;
+}Nesta configuração o botão fica mais transparente de acordo com o opacity*/
+
+
+
+/*height: 37px;
+width: 199px;
+left: 107px;
+top: 69px;
+border-radius: nullpx;
+
+
+
+
+
+
+
+
+------------------------------
+position: absolute;
+width: 199px;
+height: 37px;
+left: 107px;
+top: 69px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: rgba(255, 255, 255, 0.75);
+
+
+
+
+
+
+
+
+
+
+propriedades do paragrafo*/
